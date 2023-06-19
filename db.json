@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "JnaYvG6",
+      "name": "Sản Phẩm 1",
+      "price": 100,
+      "desc": "mo ta san phama"
+    },
+    {
+      "id": "Nk-nIMQ",
+      "name": "Sản Phẩm 222",
+      "price": 10005,
+      "desc": "hay nhắm"
+    },
+    {
+      "id": "NlSFkSn",
+      "name": "Sản Phẩm 3",
+      "price": 2000006666,
+      "desc": "mo ta san pham 1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "hoangnm",
+      "password": "1234567"
+    }
+  ]
+}
